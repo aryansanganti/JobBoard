@@ -1,4 +1,4 @@
-import Banner from "../component/banner";
+import Banner from "../component/Banner";
 import { useEffect, useState } from 'react';
 import JobsComponent from "./Jobs"; // Rename to avoid conflict
 import Card from "../component/Card";
